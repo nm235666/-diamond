@@ -31,17 +31,27 @@
 |总盈亏| ￥-25.92 |
 <table border="1">
     <tr>
-        <th>标题 1</th>
-        <th>标题 2</th>
-        <th>标题 3</th>
+        <th>股票代码</th>
+        <th>股票名称</th>
+        <th>股票现价</th>
+        <th>股票现价</th>
+        <th>一手成本价</th>
+        <th>盈亏数</th>
     </tr>
     <tr>
-        <td>col 11</td>
-        <td colspan="2">col 12</td>
+        <td>000056</td>
+        <td>皇庭国际</td>
+        <td>03.35</td>
+        <td>+07.03%</td>
+        <td>335</td>
+        <td>￥23.55</td>
     </tr>
     <tr>
-        <td>col 21</td>
-        <td>col 22</td>
-        <td>col 23</td>
+        <td>000056</td>
+        <td>皇庭国际</td>
+        <td>03.35</td>
+        <td>+07.03%</td>
+        <td>335</td>
+        <td>￥23.55</td>
     </tr>
 </table>
